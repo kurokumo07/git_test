@@ -13,7 +13,7 @@ Commands related to checking status or log history:
     - git status
     - git log
 
-The basic Git syntax is "program | action | desination"
+The basic Git syntax is "program | action | destination"
 
 For example,
     - git add . is read as git | add | ., where the period represents everything in the current directory;
